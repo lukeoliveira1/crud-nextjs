@@ -1,3 +1,11 @@
+## CRUD NextJS
+
+![image](https://github.com/user-attachments/assets/e4e42403-f0ce-4611-9512-374bebc94723)
+
+![image](https://github.com/user-attachments/assets/c809a334-6bc0-4bb5-92c8-858d56ac2b70)
+
+##
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
